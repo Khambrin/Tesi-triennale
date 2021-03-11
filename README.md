@@ -1,2 +1,2 @@
-# Tesi-triennale
-Repository che contiene la tesi svolta per la laurea triennale
+# Beryllium, una piattaforma per il software asset management
+Questo repository contiene la tesi svolta per la laurea triennale presso l'università di Padova. La tesi ha previsto lo sviluppo di una parte di un’applicazione per il Software Asset Management, in particolare la parte affrontata è stata quella riguardante il licensing dei prodotti Microsoft. Sono stati sviluppati una serie di programmi con lo scopo di estrarre informazioni su quali servizi sono installati sulla macchina, al fine di determinare il numero di licenze da acquistare di uno specifico prodotto. Inoltre è stato sviluppato un primo prototipo dell’interfaccia web finale della piattaforma.
